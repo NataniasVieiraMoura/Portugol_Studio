@@ -1,0 +1,19 @@
+Nome: Joõa
+Sexo: Masculino
+Tipo sanguineo: o-
+Idade: 15
+Cadastro ª1
+Nome: Roberta
+Sexo: Feminino
+Tipo sanguineo: A+
+Idade: 56
+Cadastro ª1
+Nome: Hélio
+Sexo: Masculino
+Tipo sanguineo: B-
+Idade: 23
+Cadastro ª1
+Nome: Galileu
+Sexo: Masculino
+Tipo sanguineo: A+
+Idade: 48
